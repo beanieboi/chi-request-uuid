@@ -1,5 +1,5 @@
 module github.com/beanieboi/chi-request-id
 
-go 1.17
+go 1.19
 
 require github.com/google/uuid v1.3.0
