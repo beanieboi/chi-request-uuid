@@ -1,4 +1,4 @@
-module github.com/beanieboi/chi-request-id
+module github.com/beanieboi/chi-request-uuid
 
 go 1.19
 

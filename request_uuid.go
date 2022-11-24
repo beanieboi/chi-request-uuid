@@ -1,4 +1,4 @@
-package request_id
+package request_uuid
 
 import (
 	"context"
